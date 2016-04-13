@@ -1,0 +1,9 @@
+1750 900
+Platform: 0 850 -30000 100
+Platform: 0 800 500 50
+Platform: 1200 800 600 50
+Platform: -50 600 200 200
+Platform: 1580 600 200 200
+Platform: 350 500 300 50
+Platform: 750 500 250 50
+Platform: 1100 500 300 50
