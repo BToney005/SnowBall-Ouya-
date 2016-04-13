@@ -10,3 +10,6 @@
 	Players are eliminated either when an opposing player jumps on top of them, or a the player is hit with a snow ball.
 	After a snowball hits the ground, it becomes inactive, allowing other players to pick it up and use it as their own.
 	(Supports 2 - 4 players)	
+
+## Example Screenshot
+	![Alt text](screenshots/screen.png "Image Not Available")
